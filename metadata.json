@@ -1,0 +1,8 @@
+{
+  "name": "Copy of GROK - Plateforme de Formation Masterclass",
+  "description": "Une plateforme de formation premium pour les développeurs, offrant des tutoriels vidéo, des ressources PDF et un assistant IA intégré.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
